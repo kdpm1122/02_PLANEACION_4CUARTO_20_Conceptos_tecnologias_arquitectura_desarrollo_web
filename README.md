@@ -1,1 +1,3 @@
 # 02_PLANEACION_4CUARTO_20_Conceptos_tecnologias_arquitectura_desarrollo_web
+
+https://kdpm1122.github.io/02_PLANEACION_4CUARTO_20_Conceptos_tecnologias_arquitectura_desarrollo_web/
